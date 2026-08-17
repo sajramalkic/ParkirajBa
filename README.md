@@ -47,9 +47,3 @@ Kratka demonstracija korištenja aplikacije dostupna je na sljedećem linku:
 ▶️ [Pogledaj demo video aplikacije ParkirajBa](https://drive.google.com/file/d/1_4RFVDiNRdJGyvIHNG5wNGbMUKWBeBOj/view?usp=sharing)
 
 
-## Konekcijski string
-
-```json
-"ConnectionStrings": {
-  "DefaultConnection": "Data Source=SQL6032.site4now.net;Initial Catalog=db_ac8dcd_parkirajba;User Id=db_ac8dcd_parkirajba_admin;Password=ParkirajBa2"
-}
